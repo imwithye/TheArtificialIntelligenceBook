@@ -1,5 +1,6 @@
+jupyterlab
 jupyter-book
 matplotlib
 numpy
-opencv-python
+opencv-python-headless
 torch
